@@ -1,34 +1,59 @@
 ## Simon Tanner
 
-I’ve been called many things in my life, but of the words that keeps coming up is poly-math. I’ve worked on some amazing interior design and architectural projects, ranging from designing properties in Mayfair and Knightsbridge to historic department stores such as Fortnum & Mason. Alas this has never really challenged me creatively or intellectually. For me variety is the spice of life and having to adapt, learn new skills and push the limits of my understanding truly makes me feel alive. I also believe that true creativity can be applied to anything, not just the arts. Take the theory of relativity for instance, you can get much more creative than perceiving a new paradigm on the very fabric of space and time.
+I’ve been called many things in my life, but of the words that keeps coming up is poly-math. I have a degree in Interior & Architectural design and more recently graduated from studying Theoretical Physics at UCL. I've also thrown my hand to music and worked on an EP with Grammy award winning artists, Basement Jaxx, as a lyricist & lead vocalist.
 
-Having completed my 2nd degree in Physics in 2015, I’ve been working in design & visualisation all the while trying to figure out what I can apply all the things I’ve learnt from two disparate fields and eventually caught the coding bug. I initially started teaching myself python and even recently wrote a program to help me with a clothing design side project called Biodesic - https://github.com/SimonTanner/BioDesic-Pattern-Fitter. Whilst this was really fascinating, I knew that I didn’t yet possess the skills that would enable me to get a great job in the industry. And that’s where Maker’s Academy came in. I’m now learning Ruby as well as other software development tools (e.g. github) and methodologies (e.g. OOP & TDD) which I hope will lead to a career which will really push and challenge me.
+I've also managed to combine my love of Maths, Physics, Design, Architecture and Coding into a clothing project called Biodesic, which allows me to edit & visualise the data from a 3D model of a garment and tweak it to make the measurements precise, saving a huge amount of time. (Please check it out - https://github.com/SimonTanner/BioDesic-Pattern-Fitter.)
+
+Whilst this was a great learning experience, I realised I needed to learn more. And that’s where Maker’s Academy came in. In just 16 weeks I was able to learn the following technologies & methodologies:
+
+* Object Oriented Design & Programming
+
+* Test Driven development
+
+* Ruby
+
+* Ruby on Rails
+
+* Node.js
+
+* Python & Django
+
+* GitHub
+
+* Postgresql
+
+* React-Native
+
 
 ## Skills
 
 ### Ideation
 
-One of my biggest strengths is being able to generate good ideas. Whilst studying software development at Maker's Academy I was given feedback numerous times from my cohort and one of the things that kept coming up was my ability to come up with great ideas. Our final group project had a very simple brief: design a charity related app for i phone. On our 1st team meeting I suggested the idea of making an app which would help raise awareness/educate people about the importance of bees to our environment and help them get involved with charities to find out how they could help. Everyone loved the idea so much that we didn't even discuss any alternatives - https://github.com/SimonTanner/Beehave.
+One of my biggest strengths is being able to generate great ideas. Whilst studying software development at Maker's Academy I received feedback from my cohort on numerous occasions and one thing that was reiterated was my ability to come up with really good ideas.
+
+Our final group project had a very simple brief: design a charity related app for iphone. On our 1st team meeting I suggested the idea of creating an app which would help raise awareness/educate users about the importance of bees to our environment and help them get involved with charities to find out how they could help. Everyone loved the idea so much that we didn't even discuss any alternatives - https://github.com/SimonTanner/Beehave.
 
 ### Problem Solving
 
-Studying Theoretical Physics and some of the techniques and concepts involved required one to think both logically, laterally and abstractly in order to find a solution. Our Final Project was to investigate different technologies for fine tuning the direction of a Cube Satellite. I created a computer simulation, using Mathematica, to calculate the effect of atmospheric drag, allowing us to visualise and test different models and produce statistical data for the forces and torques produced.
+Studying Theoretical Physics requires one to think both logically, laterally and abstractly in order to find a solution. Our Final Project was to investigate different technologies for fine tuning the direction of a Cube Satellite. I created a computer simulation, using Mathematica, to calculate the effect of atmospheric drag, allowing us to visualise and test different models and produce statistical data for the forces and torques produced.
 
-Learning Physics has also taught me the necessity of questioning assumptions you make whilst trying to solve a problem. It’s often easy to have a gut feeling about a problem, which if not questioned, can send you in wrong direction and this definitely applies to software development as well.
+Physics has also taught me the necessity of questioning assumptions you make whilst trying to solve a problem. It’s often easy to have a gut feeling about a problem, which if not questioned, can send you in wrong direction and this definitely applies to software development as well.
 
-Whilst working in architecture I was able to apply my skills to designing structures using parametric modelling software, using a mix of CAD techniques and scripts in a C++ based language, to design a dia-grid roof structure and geometrically complex staircase.
-
+Whilst working in architecture I was able to apply my skills to designing structures using parametric modelling software, using a mix of CAD techniques and scripting in a C++ based language, to design a dia-grid roof structure and geometrically complex staircase.
 
 ### Analytical Thinking
 
-My career in design has made me realise how important it is to be able to take a client brief, break it down into a number of key points and then create a solution which meets these criteria. It’s often easy to get carried away with an idea and this can often mean you get distracted from the core requirements. Whilst this may lead to a great concept, it might not be what the client has actually requested. Taking the time to analyse the problem or brief is crucial to creating a great solution and something that applies to creating good clean code. Using user stories and TDD at Maker's Academy really taught me the importance of focusing in on the key features and building software around this.
+My career in design has made me realise how important it is to be able to take a client brief, break it down into a number of key points and then create a solution which meets these criteria. It’s easy to get carried away with an idea and this often means you get distracted from the core requirements. Whilst this may lead to a great concept, it’s not necessarily what the client’s paying you to do.
+
+ Taking the time to analyse the problem or brief is crucial to creating a great solution and something that applies to creating good clean code. Using user stories and TDD at Maker's Academy really taught me the importance of focusing in on the key features and building software around this.
 
 ### Communication/Team Work
 
-My background in design has given me a great basis for discussing and communicating my ideas. No matter how good a proposal you create, if you can’t convey this verbally it usually means people won’t fully appreciate what you’ve produced. During my design degree, I was short listed for an award for a design competition run by the Royal Society of Arts. I had to present my concept, for a piece of furniture, to a panel of industry experts and I was awarded a prize of £3,000.
+Studying at Maker’s Academy has really helped me improve upon my communication skills. Having been coding solo for some time, the 1st time I was introduced to pair-programming was a bit of a shock. Ultimately it’s taught me the value of having open honest discussions with your team members. Whilst I was often praised by fellow students for being able to find them the exact web-link to help solve a problem, I really came to appreciate the help of others.
 
-I’ve also worked as a lecturer (Kingston University) whilst studying my 2nd degree, and a Teaching Assistant where finding ways to communicate subjects or concepts to students was vital. At Kingston I was teaching 1st year students, many of whom often struggled to understand the project briefs and what was required from them. I was able to explain what they needed to do, as well as help them work out where they wanted to take the project.
+My background in design has given me a great basis for discussing and communicating my ideas. During my design degree, I was short listed for an award for a design competition run by the Royal Society of Arts. I had to present my concept, for a piece of furniture, to a panel of industry experts and I was awarded a prize of £3,000.
 
+I’ve also worked as a lecturer (Kingston University) whilst studying my 2nd degree, and a Teaching Assistant where finding ways to communicate subjects or concepts to students was vital.
 
 
 ## Education
@@ -58,7 +83,7 @@ French **A**
 
 ### GCSEs
 
-6 As 2 Bs and 2 Cs
+6 As, 2 Bs and 2 Cs
 
 ### Additional Skills/Interests
 
@@ -77,7 +102,7 @@ French **A**
 *Freelance Designer/3D Visual Artist*  
 
 **Natascha Dartnall Studios** (Nov 14 to Sept 15)   
-*Senior Designer*
+*Senior Interior Designer*
 
 **Rooftop Cafe** (June 14 to Sept 14)
 *Waiter/Barista*
