@@ -1,6 +1,6 @@
 ## Simon Tanner
 
-I’ve been called many things in my life, but of the words that keeps coming up is poly-math. I have a degree in Interior & Architectural design and more recently graduated from studying Theoretical Physics at UCL. I've also thrown my hand to music and worked on an EP with Grammy award winning artists, Basement Jaxx, as a lyricist & lead vocalist.
+I’ve been called many things in my life, but one of the words that keeps coming up is poly-math. I have a degree in Interior & Architectural design and more recently graduated from studying Theoretical Physics at UCL. I've also thrown my hand to music and worked on an EP with Grammy award winning artists, Basement Jaxx, as a lyricist & lead vocalist.
 
 I've also managed to combine my love of Maths, Physics, Design, Architecture and Coding into a clothing project called Biodesic, which allows me to edit & visualise the data from a 3D model of a garment and tweak it to make the measurements precise, saving a huge amount of time. (Please check it out - https://github.com/SimonTanner/BioDesic-Pattern-Fitter.)
 
