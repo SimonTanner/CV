@@ -1,10 +1,10 @@
 ## Simon Tanner
 
-I’ve been called many things in my life, but one of the words that keeps coming up is poly-math. I have a degree in Interior & Architectural design and more recently graduated from studying Theoretical Physics at UCL. I've also tried my hand at music and worked on an EP with Grammy award winning artists, Basement Jaxx, as a lyricist & lead vocalist.
+Coding has become my passion since I 1st started teaching myself python back in late 2015. Learning new tech and trying to find solutions to the problems faced in software development fills me with the excitement and motivation of a child has who's just been given a shiny new toy. Only the possibilities are almost limitless to what you can achieve.
 
-I've also managed to combine my love of Maths, Physics, Design, Architecture and Coding into a clothing project called Biodesic, which allows me to edit & visualise the data from a 3D model of a garment and tweak it to make the measurements precise, saving a huge amount of time. (Please check it out - https://github.com/SimonTanner/BioDesic-Pattern-Fitter.)
+Being a good developer requires a constant desire to learn. I love studying and even went back to university in 2010 to study Theoretical Physics, at UCL, after rediscovering my love of Maths and problem solving in a more logical/analytical field. Fast forward to 2017, and I decided to I needed to immerse myself in software development by undertaking an intense 12 week coding bootcamp at Maker's Academy. Not only was I learning and writing code in new languages & frameworks such as ruby, rails & javascript, but I was beginning to learn and understand many of the principles of good design such as OOP and TDD as well as how to structure projects, e.g. MVPs, user stories, etc.
 
-Whilst this was a great learning experience, I realised I needed to learn more. And that’s where Maker’s Academy came in. In just 16 weeks I was able to learn the following technologies & methodologies:
+In just 16 weeks I was able to learn the following technologies & methodologies:
 
 * Object Oriented Design & Programming
 
@@ -29,7 +29,7 @@ Whilst this was a great learning experience, I realised I needed to learn more. 
 
 ### Ideation
 
-One of my biggest strengths is being able to generate great ideas. Whilst studying software development at Maker's Academy I received feedback from my cohort on numerous occasions and one thing that was reiterated was my ability to come up with really good ideas.
+One of my biggest strengths is being able to generate great ideas. Whilst at Maker's, I received feedback from my cohort on numerous occasions and one thing that was reiterated was my ability to come up with really good ideas.
 
 Our final group project had a very simple brief: design a charity related app for iphone. On our 1st team meeting I suggested the idea of creating an app which would help raise awareness/educate users about the importance of bees to our environment and help them get involved with charities to find out how they could help. Everyone loved the idea so much that we didn't even discuss any alternatives - https://github.com/SimonTanner/Beehave.
 
@@ -39,7 +39,7 @@ Studying Theoretical Physics requires one to think both logically, laterally and
 
 Physics has also taught me the necessity of questioning assumptions you make whilst trying to solve a problem. It’s often easy to have a gut feeling about a problem, which if not questioned, can send you in the wrong direction and this definitely applies to software development as well.
 
-Whilst working in architecture I was able to apply my skills to designing structures using parametric modelling software, using a mix of CAD techniques and scripting in a C++ based language, to design a dia-grid roof structure and geometrically complex staircase.
+I've also managed to combine my love of Maths, Physics, Design, Architecture and coding into a clothing project called Biodesic. Using geodesics to design garments required the pattern to be much more accurate than the traditional approach. I decided to attempt to address this by creating a program which allows me to edit & visualise the data from a 3D model of a garment and 'tweak' it to make the measurements precise, saving a huge amount of time. (Please check it out - https://github.com/SimonTanner/BioDesic-Pattern-Fitter.)
 
 ### Analytical Thinking
 
@@ -51,9 +51,7 @@ Taking the time to analyse the problem or brief is crucial to creating a great s
 
 My background in design has given me a great basis for discussing and communicating my ideas. During my design degree, I was short listed for an award for a design competition run by the Royal Society of Arts. I had to present my concept, for a piece of furniture, to a panel of industry experts and I was awarded a prize of £3,000.
 
-Studying at Maker’s Academy has really helped me improve upon my communication skills. Having been coding solo for some time, the 1st time I was introduced to pair-programming was a bit of a shock. Ultimately I've learned the value of having open honest discussions with your team members. Whilst I was often praised by fellow students for being able to find them the exact web-link to help solve a problem, I really came to appreciate the help of others.
-
-I’ve also worked as a lecturer (Kingston University) whilst studying my 2nd degree, and a Teaching Assistant where finding ways to communicate subjects or concepts to students was vital.
+Studying at Maker’s Academy has really helped me improve upon my communication skills. Having been coding solo for some time, the 1st time I was introduced to pair-programming was a bit of a shock. Ultimately I've learned the value of having open, honest discussions with your team members. Whilst I was often praised by fellow students for being able to find them the exact article to help solve a problem, I really came to appreciate the help of others.
 
 
 ## Education
@@ -67,7 +65,7 @@ I’ve also worked as a lecturer (Kingston University) whilst studying my 2nd de
 - Ruby, Rails, Python, Django, Node.js, React-Native
 - Rspec, Jasmine
 
-### University College London (Sept 10 to July 17)
+### University College London (Sept 10 to July 15)
 
 Theoretical Physics BSc (Hons) 2:2
 
